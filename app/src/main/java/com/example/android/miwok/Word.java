@@ -1,7 +1,7 @@
 package com.example.android.miwok;
 
 /**
- * Created by nirmal vats on 6/7/2017.
+ * Created by ishita sharma on 6/7/2017.
  */
 
 public class Word {
